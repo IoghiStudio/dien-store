@@ -22,7 +22,7 @@ const Buci2 = () => (
 function App() {
   return (
     <div>
-      <Route path='/' component={HomePage} />
+      <Route exact path='/' component={HomePage} />
       <Route path='/buci' component={Buci} />
       <Route path='/buci2' component={Buci2} />
     </div>
