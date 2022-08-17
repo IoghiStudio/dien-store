@@ -7,13 +7,13 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/0237/2693/products/BucketHat_extended.jpg?v=1644070523',
         price: 25
       },
       {
         id: 2,
         name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: 'https://www.rlmedia.io/is/image/PoloGSI/s7-1443199_lifestyle?$rl_df_pdp_5_7_lif$',
         price: 18
       },
       {
