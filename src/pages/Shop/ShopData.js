@@ -86,7 +86,7 @@ const SHOP_DATA = [
       {
         id: 4,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        // imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
         price: 160
       },
       {
