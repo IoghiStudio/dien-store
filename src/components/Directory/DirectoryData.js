@@ -1,7 +1,7 @@
 const sectitons = [
   {
     title: 'hats',
-    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+    imageUrl: 'https://cdn-images.farfetch-contents.com/15/36/84/80/15368480_37226033_1000.jpg',
     id: 1,
     linkUrl: 'shop/hats'
   },

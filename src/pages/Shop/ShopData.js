@@ -19,13 +19,13 @@ const SHOP_DATA = [
       {
         id: 3,
         name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: 'https://cdn1.bambinifashion.com/img/p/5/9/8/4/4/5/598445--product-gallery.jpg',
         price: 35
       },
       {
         id: 4,
         name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/2034/5599/products/beanie-melange-grey-beanie-hat-greyfleck-gym-coffee-one-size-fits-all-grey-fleck-28434573394094_550x.jpg?v=1619435630',
         price: 25
       },
       {
@@ -67,26 +67,26 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        name: 'Papuci caca',
+        imageUrl: 'https://i.ebayimg.com/t/Cute-Poop-Emoji-Slippers-Plush-Cotton-Comfortable-Indoor-Bedroom-Shoe-One-Size-/00/s/NDIyWDUwMA==/z/sc4AAOSw0xRZpeG8/$_12.JPG',
         price: 220
       },
       {
         id: 2,
         name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        imageUrl: 'https://frankfurt.apollo.olxcdn.com/v1/files/0wn4m7i26cdz-RO/image;s=644x461',
         price: 280
       },
       {
         id: 3,
         name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        imageUrl: 'https://images.journeys.ca/images/products/1_212394_ZM_THERO.JPG',
         price: 110
       },
       {
         id: 4,
         name: 'Nike White AirForce',
-        // imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        imageUrl: 'https://www.epantofi.ro/media/catalog/product/cache/image/650x650/0/1/01_0000300934807_ki.jpg',
         price: 160
       },
       {
@@ -123,31 +123,31 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+        imageUrl: 'https://www.horsefeathers.eu/data/tmp/0/7/84887_0.jpg?1632389585_1',
         price: 125
       },
       {
         id: 2,
         name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://www.horsefeathers.eu/data/tmp/0/7/84887_0.jpg?1632389585_1',
         price: 90
       },
       {
         id: 3,
         name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        imageUrl: 'https://www.horsefeathers.eu/data/tmp/0/7/84887_0.jpg?1632389585_1',
         price: 90
       },
       {
         id: 4,
         name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+        imageUrl: 'https://www.horsefeathers.eu/data/tmp/0/7/84887_0.jpg?1632389585_1',
         price: 165
       },
       {
         id: 5,
         name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+        imageUrl: 'https://www.horsefeathers.eu/data/tmp/0/7/84887_0.jpg?1632389585_1',
         price: 185
       }
     ]
@@ -160,43 +160,43 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 25
       },
       {
         id: 2,
         name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 20
       },
       {
         id: 3,
         name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 80
       },
       {
         id: 4,
         name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 80
       },
       {
         id: 5,
         name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 45
       },
       {
         id: 6,
         name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 135
       },
       {
         id: 7,
         name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+        imageUrl: 'https://image.shutterstock.com/image-vector/angry-gorilla-260nw-235447987.jpg',
         price: 20
       }
     ]
@@ -209,37 +209,37 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 325
       },
       {
         id: 2,
         name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 20
       },
       {
         id: 3,
         name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 25
       },
       {
         id: 4,
         name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 25
       },
       {
         id: 5,
         name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 40
       },
       {
         id: 6,
         name: 'Burgundy T-shirt',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+        imageUrl: 'https://t4.ftcdn.net/jpg/01/92/36/05/360_F_192360523_dNz2SlzxEGy2Jwd3xIMzBvS13bRItKVN.jpg',
         price: 25
       }
     ]
