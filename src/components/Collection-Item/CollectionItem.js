@@ -23,7 +23,7 @@ const CollectionItem = ({item, addItem}) => {
       </CustomButtom>
     </div>
   )
-}
+};
 
 const mapDispatchToProps = dispatch => ({
   addItem: item => dispatch(addItem(item))
